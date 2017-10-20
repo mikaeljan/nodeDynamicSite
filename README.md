@@ -1,4 +1,4 @@
-# Dynamic site with Node.js
+# Profile badges - dynamic site with Node.js
 
 Created a custom framework using Node.js for building a dynamic sites.
 Created own templating engine, routing, injecting variables.
